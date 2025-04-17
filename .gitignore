@@ -26,3 +26,5 @@ Cargo.lock
 
 # Some testing artefacts
 *.gyat
+
+.idea
